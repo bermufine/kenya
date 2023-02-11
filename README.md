@@ -14,7 +14,7 @@
 
 {"descriptionKe":"MTN KENYA TV is a station with family touch, +254 701 486625","sourceKe":["hhttps://goliveafrica.media:9998/live/610f91c9490e8/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk5Mzg5MTNf/mtnkenya.png","titleKe":"MTN TV KENYA"},
 
-{"descriptionKe":"His Grace Tv is a TV channel bringing the gospel of Jesus Christ to homes on the African continent and beyond. Kiambu Town opp KK Towers Inside CFF Mega Tent, 0712 0904065, info@hisgracetv.co.ke ","sourceKe":["https://goliveafrica.media:9998/live/62303ad992fac/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk5Mzk0MjNf/hisgrace.png","titleKe":"HIS GRACE TV"},
+{"descriptionKe":"His Grace Tv is a TV channel bringing the gospel of Jesus Christ to homes on the African continent and beyond. Kiambu Town opp KK Towers Inside CFF Mega Tent, 0712 0904065, info@hisgracetv.co.ke ","sourceKe":["https://goliveafrica.media:9998/live/625e57a1a1605/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk5Mzk0MjNf/hisgrace.png","titleKe":"HIS GRACE TV"},
 
 {"descriptionKe":"Menu TV est une chaîne télévisée du Kenya spécialisée au informations et autres. NEWS UPDATE,ENTERTAINMENT,INTERACTION &EDUCATIVE PROGRAMS +254 720 888444","sourceKe":["https://goliveafrica.media:9998/live/61557714d7f3a/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk5NDExNzhf/meru.jpg","titleKe":"MERU TV"},
 
