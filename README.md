@@ -10,7 +10,7 @@
 
 {"descriptionKe":"Kass TV est une chaîne télévisée du Kenya spécialisée au informations et autres.","sourceKe":["https://goliveafrica.media:9998/live/60755313b36db/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk2NDExOThf/kass.png","titleKe":"KASS TV"},
 
-{"descriptionKe":"EBN TV is a Commercial Broadcasting station that offers a diverse Family Centered 24hr schedule of both local and international programming and News, +254 740 653453, info@ebntv.co.ke","sourceKe":["https://goliveafrica.media:9998/live/604f5ae2767da/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk5Mzk2Mjdf/ebn.jpg","titleKe":"EBN TV"},
+{"descriptionKe":"Nice TV is a Commercial Broadcasting station that offers a diverse Family Centered 24hr schedule of both local and international programming and News, +254 740 653453, info@ebntv.co.ke","sourceKe":["https://goliveafrica.media:9998/live/63ba65c8b8b51/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk5Mzk2Mjdf/ebn.jpg","titleKe":"NICE TV"},
 
 {"descriptionKe":"Elevate TV is a station with family touch, +254 701 486625","sourceKe":["https://goliveafrica.media:9998/live/63344305476a7/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk5Mzg5MTNf/mtnkenya.png","titleKe":"ELEVATE TV"},
 
