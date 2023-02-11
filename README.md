@@ -8,7 +8,7 @@
 
 {"descriptionKe":"K24 TV est une chaîne télévisée du Kenya spécialisée au informations et autres.","sourceKe":["https://5f4db0f94b000.streamlock.net/k24/myStream/chunklist_w333466763.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjc4NTM5MDVf/k24tv.png","titleKe":"K24 TV"},
 
-{"descriptionKe":"Kass TV est une chaîne télévisée du Kenya spécialisée au informations et autres.","sourceKe":["https://goliveafrica.media:9998/live/60755313b36db/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk2NDExOThf/kass.png","titleKe":"KASS TV"},
+{"descriptionKe":"BTL TV est une chaîne télévisée du Kenya spécialisée au informations et autres.","sourceKe":["https://goliveafrica.media:9998/live/638da5440743c/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk2NDExOThf/kass.png","titleKe":"BTL TV"},
 
 {"descriptionKe":"Nice TV is a Commercial Broadcasting station that offers a diverse Family Centered 24hr schedule of both local and international programming and News, +254 740 653453, info@ebntv.co.ke","sourceKe":["https://goliveafrica.media:9998/live/63ba65c8b8b51/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk5Mzk2Mjdf/ebn.jpg","titleKe":"NICE TV"},
 
