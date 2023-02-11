@@ -2,7 +2,7 @@
 
 {"descriptionKe":"Utv est une chaîne télévisée du Kenya spécialisée au informations et autres.","sourceKe":["https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667154397/ei/fG1eY_SnN42zWqjfgYAD/ip/185.22.154.19/id/VZWKvIddL4w.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgaEuw9lSTOm3ESVzL1VVtXMr_JES-eXicNkPSDzsWuhwCIEHCgc7wHwG2fodGXiW5k63kM5_CtILQL_3M7fieerf3/file/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjc4NTM3OTFf/utv.jpg","titleKe":"UTV"},
 
-{"descriptionKe":"GBS TV est une chaîne télévisée du Kenya spécialisée au informations et autres.","sourceKe":["https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjkzMTk2MThf/gbs.jpg","titleKe":"GBS TV"},
+{"descriptionKe":"D & G TV est une chaîne télévisée du Kenya spécialisée au informations et autres.","sourceKe":["https://goliveafrica.media:9998/live/637b77e826c49/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjkzMTk2MThf/gbs.jpg","titleKe":"D & G TV"},
 
 {"descriptionKe":"Nyota Televisions est l'une de chaine du Kenya avec de diversites des emisiions. Tel +254 792 964449 / nyotatelevision@gmail.com","sourceKe":["https://goliveafrica.media:9998/live/6206276478066/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk5MzYwMzNf/nyotakenya.jpg","titleKe":"NYOTA TV"},
 
