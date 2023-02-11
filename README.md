@@ -16,6 +16,6 @@
 
 {"descriptionKe":"His Grace Tv is a TV channel bringing the gospel of Jesus Christ to homes on the African continent and beyond. Kiambu Town opp KK Towers Inside CFF Mega Tent, 0712 0904065, info@hisgracetv.co.ke ","sourceKe":["https://goliveafrica.media:9998/live/625e57a1a1605/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk5Mzk0MjNf/hisgrace.png","titleKe":"HIS GRACE TV"},
 
-{"descriptionKe":"Menu TV est une chaîne télévisée du Kenya spécialisée au informations et autres. NEWS UPDATE,ENTERTAINMENT,INTERACTION &EDUCATIVE PROGRAMS +254 720 888444","sourceKe":["https://goliveafrica.media:9998/live/61557714d7f3a/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk5NDExNzhf/meru.jpg","titleKe":"MERU TV"},
+{"descriptionKe":"True TV est une chaîne télévisée du Kenya spécialisée au informations et autres. NEWS UPDATE,ENTERTAINMENT,INTERACTION &EDUCATIVE PROGRAMS +254 720 888444","sourceKe":["https://goliveafrica.media:9998/live/638b253c187c7/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk5NDExNzhf/meru.jpg","titleKe":"TRUE TV"},
 
 {"descriptionKe":"Yahwehs tv est une chaîne télévisée du Kenya spécialisée au informations et autres.","sourceKe":["https://goliveafrica.media:9998/live/639be0c6161ef/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjc4NTQwNzVf/ebrutv.jpg","titleKe":"YAHWEHS TV"}]}]}
