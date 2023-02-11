@@ -18,4 +18,4 @@
 
 {"descriptionKe":"Menu TV est une chaîne télévisée du Kenya spécialisée au informations et autres. NEWS UPDATE,ENTERTAINMENT,INTERACTION &EDUCATIVE PROGRAMS +254 720 888444","sourceKe":["https://goliveafrica.media:9998/live/61557714d7f3a/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk5NDExNzhf/meru.jpg","titleKe":"MERU TV"},
 
-{"descriptionKe":"Ebru TV est une chaîne télévisée du Kenya spécialisée au informations et autres.","sourceKe":["https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjc4NTQwNzVf/ebrutv.jpg","titleKe":"EBRU TV"}]}]}
+{"descriptionKe":"Yahwehs tv est une chaîne télévisée du Kenya spécialisée au informations et autres.","sourceKe":["https://goliveafrica.media:9998/live/639be0c6161ef/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjc4NTQwNzVf/ebrutv.jpg","titleKe":"YAHWEHS TV"}]}]}
