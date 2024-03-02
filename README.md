@@ -1,10 +1,25 @@
 {"categorieKe":[{"name":"Movies","videos":[{"descriptionKe":"Inoro tv est une chaîne télévisée du Kenya spécialisée au informations et autres.","sourceKe":["https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yODQyMTk0ODRf/inoorotv.jpg","titleKe":"INORO TV"},
 
+{"descriptionKe":"RAMOGI TV est une chaîne télévisée du Kenya spécialisée au informations et autres.","sourceKe":["https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleKe":"RAMOGI TV"},
+
+{"descriptionKe":"Luyaa Television is available on PANG All Free To Air, StarTimes Channel 200, and GoLIVE Africa platforms broadcasting in all 19 Luhya dialects and vernacular Languages. Telling our own stories to the world, Community Education, Culture, Sports, Social, Traditional, and Health, covering issues of national and Local interests. We're Broadcasting from the tropical Town, heart of the western region Kakamega County the green Jewel.","sourceKe":["https://goliveafrica.media:9998/live/659e7c6432815/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleKe":"LUYAA TV"},
+
+{"descriptionKe":"JCM TV est une chaîne télévisée du Kenya spécialisée au informations et autres.","sourceKe":["https://goliveafrica.media:9998/live/659fbda3c7a79/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleKe":"JCM TV"},
+
+{"descriptionKe":"Mwangaza TV Kenya' your daily dose of hope and motivation! (Tumaini Lako) Our other top programmes are Mwangaza Asubuhi, Upishi Bora, Utukufu, Life Garage, Tumsifu Kikwaya, Mama Yangu, Changamoto za Kiroho, Dhahabu ya Ukulima, Nafasi Nyingine, The Plug show, School Edition, Sunday Gospel Express.","sourceKe":["https://goliveafrica.media:9998/live/6516be24a6bac/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleKe":"MWANGAZA TV"},
+
+{"descriptionKe":"FIRE TV est une chaîne télévisée du Kenya spécialisée au informations et autres.","sourceKe":["https://goliveafrica.media:9998/live/641bfaa3dd006/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleKe":"FIRE TV"}]}]}
+
+
+
+
+
+
+https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg
+
 {"descriptionKe":"KTN NEWS est une chaîne télévisée du Kenya spécialisée au informations et autres.","sourceKe":["https://ythls.onrender.com/channel/UCKVsdeoHExltrWMuK0hOWmg.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk5Mzg5MTNf/mtnkenya.png","titleKe":"KTN NEWS TV"},
 
 {"descriptionKe":"D & G TV est une chaîne télévisée du Kenya spécialisée au informations et autres.","sourceKe":["https://goliveafrica.media:9998/live/637b77e826c49/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjkzMTk2MThf/gbs.jpg","titleKe":"D & G TV"},
-
-{"descriptionKe":"RAMOGI TV est une chaîne télévisée du Kenya spécialisée au informations et autres.","sourceKe":["https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjc4NTM5MDVf/k24tv.png","titleKe":"RAMOGI TV"},
 
 {"descriptionKe":"KBC Televisions est l'une de chaine du Kenya avec de diversites des emisiions. Tel +254 792 964449 / nyotatelevision@gmail.com","sourceKe":["https://ythls.onrender.com/channel/UCypNjM5hP1qcUqQZe57jNfg.m3u8"],"subtitleKe":"By Channel","thumbKe":"https://od.lk/s/M18yNjk5MzYwMzNf/nyotakenya.jpg","titleKe":"KBC TV"},
 
